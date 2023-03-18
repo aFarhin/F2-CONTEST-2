@@ -1,4 +1,4 @@
-function SchoolsSportsDay() {
+function OpeningCeremony() {
     console.log("Let the games begin");
 
     const score = { red: 0, blue: 0, green: 0, yellow: 0 };
@@ -98,4 +98,4 @@ function AwardCeremony(score) {
     );
 }
 
-SchoolsSportsDay();
+OpeningCeremony();
